@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,ts,tailwind,nodejs,express,supabase,postgres,php,mysql,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,ts,tailwind,nodejs,express,supabase,postgres,prisma,php,mysql,git,github,html,css" />
 </p>
 
 
