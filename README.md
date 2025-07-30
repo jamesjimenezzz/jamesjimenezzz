@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning AI development
 - 📚 Incoming 1st year college at University of Pangasinan
 
-
+## Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,ts,tailwind,nodejs,express,supabase,postgres,prisma,php,mysql,git,github,html,css" />
 </p>
