@@ -1,4 +1,8 @@
-sanguis cadat; vita solvatur; potestas surgat;
+## About
+- 👋 Hi, I’m @jamesjimenezzz
+- 👀 I’m interested in full-stack development
+- 🌱 I’m currently learning AI development
+- 📚 Incoming 1st year college at University of Pangasinan
 
 
 <p align="left">
