@@ -1,6 +1,6 @@
 ## About
 - 👋 Hi, I’m @jamesjimenezzz
-- 👀 I’m interested in full-stack development
+- 👀 Full-stack Developer
 - 🌱 I’m currently learning AI development
 - 📚 Incoming 1st year college at University of Pangasinan
 
