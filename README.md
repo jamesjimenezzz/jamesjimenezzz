@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @jamesjimenezzz
 - 👀 Full-stack Developer
 - 🌱 I’m currently learning AI development
-- 📚 Incoming 1st year college at University of Pangasinan
+- 📚 Incoming 1st year college at the University of Pangasinan
 
 ## Tech Stack
 <p align="left">
